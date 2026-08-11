@@ -3,6 +3,10 @@ name: gc-minimal-zine-poster-v0-3
 description: Generate or analyze poetic paper-texture minimal zine posters with large negative space, a small editorial collage or visual anchor, experimental typography, and one clear color accent. Use when the user gives a theme, sentence, article, mood, object, photo, content brief, reference images, or an image folder and wants a final poster image, a production-ready image prompt, reusable style rules, or varied layouts that stay in one visual family.
 ---
 
+> **图片风格：** 日系 / 韩系极简独立杂志 × 诗性纸感大留白微编辑海报。
+>
+> **适合：** 主题句、文章、情绪、物件或照片的安静编辑海报。
+
 # Minimal Zine Poster v0.3
 
 Turn content or visual references into a coherent paper-poster system. Preserve the original production contract: unless the user explicitly asks for analysis or prompt-only output, return both a final image-generation prompt and the generated raster image.
